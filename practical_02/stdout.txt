@@ -1,0 +1,12 @@
+Name: Yash Sharma
+Roll No: E25B000411
+Account 1001 | Balance: 1500.00
+Account 1002 | Balance: 2000.00
+Deposited: 500.00
+Withdrawn: 300.00
+Deposit rejected: amount must be positive.
+Withdrawal rejected: amount must be positive.
+Withdrawal rejected: insufficient balance.
+Final balances:
+Account 1001 | Balance: 1700.00
+Account 1002 | Balance: 2000.00
