@@ -115,7 +115,8 @@ int main() {
             if (choice == 1) {
                 string id, name, course;
                 int marks;
-                cout << "Enter ID, name, course and marks on separate lines.\n";
+                cout << "Enter ID, name, course and marks "
+                     << "on separate lines.\n";
                 getline(cin, id);
                 getline(cin, name);
                 getline(cin, course);
