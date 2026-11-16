@@ -1,0 +1,25 @@
+Name: Yash Sharma
+Roll Number: E25B000411
+Saved 3 records in students.csv.
+
+Records read from the file:
+101 | Yash Sharma | 88
+102 | Aarav Patel | 76
+103 | Meera Shah | 92
+
+Malformed-record checks:
+Rejected: 104,Wrong,not-a-number
+Rejected: 105,Extra,90,field
+Rejected: 106,Out of range,105
+Rejected: 107,,80
+Rejected: 108,Missing
+Rejected: 109,Trailing text,80abc
+
+File-position demonstration:
+tellp() after writing: 11
+tellg() after seekg(6): 6
+Word read: WORLD
+tellg() after reading: 11
+tellp() after seekp(6): 6
+tellp() after overwrite: 11
+Updated text: HELLO CLASS
