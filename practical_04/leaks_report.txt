@@ -1,0 +1,49 @@
+Name: Yash Sharma
+Roll No: E25B000411
+
+Unique ownership:
+Created student: Yash
+Owner has: Yash
+Old owner is empty: true
+New owner has: Yash
+Destroyed student: Yash
+Unique ownership scope ended.
+
+Shared ownership between two offices:
+Created student: Riya
+Owners before library: 1
+Admissions record: Riya
+Library record: Riya
+Owners with both offices: 2
+Same student object: true
+Owners after library leaves: 1
+Student is still available: Riya
+Destroyed student: Riya
+Shared ownership scope ended.
+Process 94588 is not debuggable. Due to security restrictions, leaks can only show or save contents of readonly memory of restricted processes.
+
+Process:         p04 [94588]
+Path:            /Users/USER/Documents/*/p04
+Load Address:    0x100b0c000
+Identifier:      p04
+Version:         0
+Code Type:       ARM64
+Platform:        macOS
+Parent Process:  leaks [94587]
+Target Type:     live task
+
+Date/Time:       2026-11-16 12:08:28.130 +0530
+Launch Time:     2026-11-16 12:08:27.664 +0530
+OS Version:      macOS 27.2.1 (26B131)
+Report Version:  7
+Analysis Tool:   /usr/bin/leaks
+
+Physical footprint:         2368K
+Physical footprint (peak):  2368K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 94588: 187 nodes malloced for 15 KB
+Process 94588: 0 leaks for 0 total leaked bytes.
+

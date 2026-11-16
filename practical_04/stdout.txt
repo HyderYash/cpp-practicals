@@ -1,0 +1,22 @@
+Name: Yash Sharma
+Roll No: E25B000411
+
+Unique ownership:
+Created student: Yash
+Owner has: Yash
+Old owner is empty: true
+New owner has: Yash
+Destroyed student: Yash
+Unique ownership scope ended.
+
+Shared ownership between two offices:
+Created student: Riya
+Owners before library: 1
+Admissions record: Riya
+Library record: Riya
+Owners with both offices: 2
+Same student object: true
+Owners after library leaves: 1
+Student is still available: Riya
+Destroyed student: Riya
+Shared ownership scope ended.
