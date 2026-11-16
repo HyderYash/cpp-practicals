@@ -1,0 +1,32 @@
+Name: Yash Sharma
+Roll Number: E25B000411
+
+Integer stack
+Initially empty: true
+Pushed: 10, 20
+Top: 20
+Popped: 20
+Popped: 10
+Empty after popping: true
+Peek failed: stack is empty.
+Pop failed: stack is empty.
+
+Float stack
+Initially empty: true
+Pushed: 1.5, 2.5
+Top: 2.5
+Popped: 2.5
+Popped: 1.5
+Empty after popping: true
+Peek failed: stack is empty.
+Pop failed: stack is empty.
+
+String stack
+Initially empty: true
+Pushed: Hello, World
+Top: World
+Popped: World
+Popped: Hello
+Empty after popping: true
+Peek failed: stack is empty.
+Pop failed: stack is empty.
