@@ -1,0 +1,23 @@
+Name: Yash Sharma
+Roll Number: E25B000411
+Opening balance: 1000.00
+
+Withdrawal requested: 250.00
+Balance before: 1000.00
+Withdrawal successful.
+Balance after: 750.00
+
+Withdrawal requested: 1000.00
+Balance before: 750.00
+Insufficient funds: Not enough money in the account.
+Balance after: 750.00
+
+Withdrawal requested: -50.00
+Balance before: 750.00
+Invalid amount: Amount must be greater than zero.
+Balance after: 750.00
+
+Withdrawal requested: 0.00
+Balance before: 750.00
+Invalid amount: Amount must be greater than zero.
+Balance after: 750.00
