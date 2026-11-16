@@ -1,0 +1,19 @@
+Name: Yash Sharma
+Roll No: E25B000411
+
+Student details
+Name: Aarav
+Age: 20
+Roll number: S101
+Course: B.Tech
+
+Graduate student details
+Name: Meera
+Age: 23
+Roll number: G201
+Course: M.Tech
+Research topic: Computer Vision
+
+Calling an inherited public method
+Name: Meera
+Age: 23

@@ -1,0 +1,7 @@
+Person
+  | public inheritance
+  v
+Student
+  | public inheritance
+  v
+GraduateStudent
