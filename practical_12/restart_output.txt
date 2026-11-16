@@ -1,0 +1,11 @@
+Name: Yash Sharma
+Loaded 2 student(s).
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 3
+E25B000411 | Yash Sharma | AI and Data Science | 82 | Pass
+E25B000412 | Aarav Patil | Computer Science | 35 | Fail
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 0
+Goodbye.

@@ -1,0 +1,18 @@
++-------------------------+
+| Person                  |
+| # name: string          |
+| + Person(name)          |
++-------------------------+
+             ^
+             | public inheritance
++-------------------------+
+| Student                 |
+| - id, course: string    |
+| - marks: int            |
+| + Student(id,n,c,m)     |
+| + getId()               |
+| + display()             |
+| + write(file)           |
++-------------------------+
+main stores vector<Student>
++ public   - private   # protected

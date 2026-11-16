@@ -1,0 +1,45 @@
+Name: Yash Sharma
+Loaded 0 student(s).
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 1
+Enter ID, name, course and marks on separate lines.
+Added: E25B000411 | Yash Sharma | AI and Data Science | 82 | Pass
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 1
+Enter ID, name, course and marks on separate lines.
+Added: E25B000412 | Aarav Patil | Computer Science | 35 | Fail
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 2
+Enter student ID: E25B000411
+E25B000411 | Yash Sharma | AI and Data Science | 82 | Pass
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 1
+Enter ID, name, course and marks on separate lines.
+Error: Student ID already exists.
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 1
+Enter ID, name, course and marks on separate lines.
+Error: Marks must be between 0 and 100.
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 2
+Enter student ID: UNKNOWN
+Error: Student not found.
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 3
+E25B000411 | Yash Sharma | AI and Data Science | 82 | Pass
+E25B000412 | Aarav Patil | Computer Science | 35 | Fail
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 4
+Saved 2 student(s).
+
+1 Add  2 Search  3 List  4 Save  0 Exit
+Choice: 0
+Goodbye.

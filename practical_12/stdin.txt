@@ -1,0 +1,27 @@
+1
+E25B000411
+Yash Sharma
+AI and Data Science
+82
+1
+E25B000412
+Aarav Patil
+Computer Science
+35
+2
+E25B000411
+1
+E25B000411
+Yash Sharma
+AI and Data Science
+90
+1
+E25B000413
+Riya Shah
+Computer Science
+110
+2
+UNKNOWN
+3
+4
+0
