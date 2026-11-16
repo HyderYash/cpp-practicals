@@ -1,0 +1,39 @@
+Name: Yash Sharma
+Roll No: E25B000411
+Default object: 0
+Original after copy change: 10
+Copy-constructed object: 20
+Move-constructed object: 20
+Source after move construction: empty (safe moved-from state)
+Original after assignment change: 10
+Copy-assigned object: 30
+Move-assigned object: 30
+Source after move assignment: empty (safe moved-from state)
+Moved-from object reused: 40
+Process 94579 is not debuggable. Due to security restrictions, leaks can only show or save contents of readonly memory of restricted processes.
+
+Process:         p03 [94579]
+Path:            /Users/USER/Documents/*/p03
+Load Address:    0x100c64000
+Identifier:      p03
+Version:         0
+Code Type:       ARM64
+Platform:        macOS
+Parent Process:  leaks [94578]
+Target Type:     live task
+
+Date/Time:       2026-11-16 12:08:26.908 +0530
+Launch Time:     2026-11-16 12:08:26.487 +0530
+OS Version:      macOS 27.2.1 (26B131)
+Report Version:  7
+Analysis Tool:   /usr/bin/leaks
+
+Physical footprint:         2400K
+Physical footprint (peak):  2400K
+Idle exit:                  untracked
+----
+
+leaks Report Version: 4.0, multi-line stacks
+Process 94579: 187 nodes malloced for 15 KB
+Process 94579: 0 leaks for 0 total leaked bytes.
+

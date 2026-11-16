@@ -1,0 +1,12 @@
+Name: Yash Sharma
+Roll No: E25B000411
+Default object: 0
+Original after copy change: 10
+Copy-constructed object: 20
+Move-constructed object: 20
+Source after move construction: empty (safe moved-from state)
+Original after assignment change: 10
+Copy-assigned object: 30
+Move-assigned object: 30
+Source after move assignment: empty (safe moved-from state)
+Moved-from object reused: 40
