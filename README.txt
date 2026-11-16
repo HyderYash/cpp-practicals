@@ -35,7 +35,6 @@ Git history: the supplied cpp-practicals.bundle contains the local commits.
 To restore them, run this from the extracted pack's parent folder:
   git clone cpp-practicals.bundle cpp-practicals-restored
 
-GitHub publication is a separate step and has not been performed. After
-creating an empty repository named cpp-practicals in your GitHub account,
-open the restored folder, add its URL as origin and push the main branch.
-Use your actual repository URL; no repository URL or upload is claimed here.
+Repository: https://github.com/HyderYash/cpp-practicals
+The PDF and editable Word manual are in the manual folder.
+See README.md for the practical index and complete instructions.

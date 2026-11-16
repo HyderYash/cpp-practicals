@@ -1,0 +1,8 @@
+# Local executables and generated runtime data
+**/program
+**/program.exe
+*.dSYM/
+.DS_Store
+practical_11/students.csv
+practical_11/position.txt
+practical_12/portal.csv
