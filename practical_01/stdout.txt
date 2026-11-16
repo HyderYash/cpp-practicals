@@ -1,0 +1,7 @@
+Name: Yash Sharma
+Roll No: E25B000411
+Enter marks in Maths, Programming and English: 78 85 91
+Total: 254 / 300
+Percentage: 84.67%
+Passed all subjects: true
+Grade: A
