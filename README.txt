@@ -31,8 +31,13 @@ Memory checks: Practicals 03 and 04 were checked with AddressSanitizer and
 UndefinedBehaviorSanitizer. Apple leaks reported 0 leaked bytes with a
 restricted-process inspection notice. The logs are retained as evidence.
 
-Git history: the supplied cpp-practicals.bundle contains the local commits.
-To restore them, run this from the extracted pack's parent folder:
+To clone the GitHub repository with its commit history:
+  git clone https://github.com/HyderYash/cpp-practicals.git
+
+The separately provided Yash_Sharma_E25B000411_CPP_Source_Code.zip also
+includes cpp-practicals.bundle for offline use. This bundle is not part
+of GitHub's Download ZIP archive. After extracting the source-code pack,
+run this from the folder containing cpp-practicals.bundle:
   git clone cpp-practicals.bundle cpp-practicals-restored
 
 Repository: https://github.com/HyderYash/cpp-practicals
